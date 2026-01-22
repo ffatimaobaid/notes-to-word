@@ -53,7 +53,7 @@ def get_model_response(prompt, img_data):
 
 # --- HEADER ---
 st.title("Notes2Doc")
-st.info("Upload your handwritten notes!")
+st.info("Created by: Fatima Obaid (22I-0475), Ayesha Tahir (22I-0475) and Hadia Mazhar (22I-0487) from AI-D for PPIT class assignment.")
 
 # --- LAYOUT: 2 COLUMNS ---
 col1, col2 = st.columns([1, 1], gap="large")
