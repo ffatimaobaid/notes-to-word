@@ -1,0 +1,41 @@
+{
+  "total_conversions": 2,
+  "successful_conversions": 2,
+  "failed_conversions": 0,
+  "content_type_counts": {
+    "text": 0,
+    "math": 0,
+    "diagram": 0,
+    "mixed": 2
+  },
+  "average_confidence": 0.8,
+  "feedback_scores": [],
+  "conversion_history": [
+    {
+      "timestamp": "2026-05-08T17:21:52.746326",
+      "content_type": "mixed",
+      "confidence": 0.85,
+      "success": true,
+      "image_quality": "Excellent",
+      "strategy_used": "default",
+      "word_count": 724
+    },
+    {
+      "timestamp": "2026-05-08T17:24:14.355142",
+      "content_type": "mixed",
+      "confidence": 0.75,
+      "success": true,
+      "image_quality": "Excellent",
+      "strategy_used": "default",
+      "word_count": 739
+    }
+  ],
+  "learned_preferences": {
+    "preferred_format": "structured",
+    "detail_level": "high",
+    "include_latex": true
+  },
+  "common_corrections": [],
+  "created_at": "2026-05-03T00:00:00",
+  "last_updated": "2026-05-08T17:24:14.356635"
+}

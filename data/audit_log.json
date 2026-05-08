@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-05-08T17:21:28.617886",
+    "phase": "observe",
+    "action": "Image analysis completed",
+    "details": {
+      "quality_score": 88.1,
+      "content_type": "mixed"
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-05-08T17:21:28.623104",
+    "phase": "decide",
+    "action": "Strategy selected",
+    "details": {
+      "strategy": "mixed",
+      "passes": 1,
+      "autonomy": "full"
+    }
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-05-08T17:21:52.740594",
+    "phase": "act",
+    "action": "Transcription completed",
+    "details": {
+      "confidence": 0.85,
+      "word_count": 724,
+      "acceptable": true
+    }
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-05-08T17:21:52.749830",
+    "phase": "learn",
+    "action": "Learning cycle completed",
+    "details": {
+      "total_conversions": 1,
+      "performance_trend": "insufficient_data"
+    }
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-05-08T17:23:59.615673",
+    "phase": "observe",
+    "action": "Image analysis completed",
+    "details": {
+      "quality_score": 92.0,
+      "content_type": "mixed"
+    }
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-05-08T17:23:59.628454",
+    "phase": "decide",
+    "action": "Strategy selected",
+    "details": {
+      "strategy": "mixed",
+      "passes": 1,
+      "autonomy": "full"
+    }
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-05-08T17:24:14.349986",
+    "phase": "act",
+    "action": "Transcription completed",
+    "details": {
+      "confidence": 0.75,
+      "word_count": 739,
+      "acceptable": true
+    }
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-05-08T17:24:14.358995",
+    "phase": "learn",
+    "action": "Learning cycle completed",
+    "details": {
+      "total_conversions": 2,
+      "performance_trend": "insufficient_data"
+    }
+  }
+]
